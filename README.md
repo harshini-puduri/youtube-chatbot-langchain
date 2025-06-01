@@ -17,7 +17,17 @@ I wanted to try out RAG without relying on wrappers or black-box APIs. Also — 
 
 ---
 
-### 🛠️ Run it yourself
+### Stack
+
+- LangChain
+- FAISS
+- OpenAI (embeddings + LLM)
+- YouTubeTranscript API
+- Jupyter
+
+---
+
+### Try it out!
 
 1. Install deps  
    `pip install -r requirements.txt`
@@ -28,16 +38,6 @@ I wanted to try out RAG without relying on wrappers or black-box APIs. Also — 
 3. Drop in a YouTube link + OpenAI key  
    Ask it questions like:  
    > “What was the speaker's main argument in the first 10 mins?”
-
----
-
-### ⚙️ Stack
-
-- LangChain
-- FAISS
-- OpenAI (embeddings + LLM)
-- YouTubeTranscript API
-- Jupyter
 
 ---
 
