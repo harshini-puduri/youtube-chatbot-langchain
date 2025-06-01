@@ -1,6 +1,6 @@
 # RAG over YouTube Videos (with LangChain)
 
-Built a Retrieval-Augmented Generation pipeline using LangChain — but instead of PDFs or plain docs, I used **YouTube transcripts** as the knowledge source.
+Built a Retrieval-Augmented Generation pipeline using LangChain, but instead of PDFs or plain docs, I used **YouTube transcripts** as the knowledge source.
 
 This notebook runs through:
 - Pulling transcripts from a YouTube video
@@ -13,7 +13,7 @@ This notebook runs through:
 
 ### Why I built this?
 
-I wanted to try out RAG without relying on wrappers or black-box APIs. Also — YouTube videos are underrated data sources, and I was curious if I could build a chatbot that understands one.
+I wanted to try out RAG without relying on wrappers or black-box APIs. Also, YouTube videos are underrated data sources, and I was curious if I could build a chatbot that understands one.
 
 ---
 
